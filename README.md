@@ -2,8 +2,9 @@
 
 ## What
 
-This is a bot that is going to be managing messages inside a project text channel
-These messages would look something like this
+This is a bot that is going to be managing messages inside a project text channel.
+
+These messages would look something like this:
 
 ### Example Simulix
 
